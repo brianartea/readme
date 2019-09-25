@@ -1,6 +1,6 @@
-# Foobar
+# Testing Code 4 README.md
 
-Foobar is a Python library for dealing with word pluralization.
+Making the README.md into a website on Github
 
 ## Installation
 
@@ -32,7 +32,7 @@ Welcome to StackEdit!
 ===================
 
 
-Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
+Hey! I'm your first Markdown document. Don't delete me, I'm very helpful!
 
 ----------
 
